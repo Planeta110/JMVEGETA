@@ -1,5 +1,7 @@
 {
-    "codigos": [
+    {"cambio":"Se puede cambiar con otros jugadores o en monedas del servidor en WARP DE CAMBIO PLANETA110"},
+    
+    {"codigos": [
         {"codig":"89653", "valor": "100K"},
         {"codig": "23260", "valor": "10K"},
         {"codig":"31805", "valor": "10K"},
@@ -9,7 +11,6 @@
         {"codig": "54998", "valor": "10K"},
         {"codig": "65421", "valor": "10K"},
         {"codig": "25325", "valor": "10K"},
-        {"codig": "69910", "valor": "10K"},
-        69910
-    ]
+        {"codig": "69910", "valor": "10K"}
+    ]}
 }
