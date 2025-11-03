@@ -1,5 +1,7 @@
 {
     "codigos": [
-        {"codig":"89653"}
+        {"codig":"89653", "valor": "100K"},
+        {"codig": "23260", "valor": "10K"},
+        {"codig":"31805", "valor": "10K"}
     ]
 }
